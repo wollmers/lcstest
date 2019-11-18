@@ -1,0 +1,8 @@
+.DS_Store
+
+*~
+*.bak
+._*
+
+*.o
+lcstest
